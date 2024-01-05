@@ -33,11 +33,12 @@ body {
     font-size: 20px;
 }
 /* set element ul */
-.header div ul {
+.header nav ul {
     list-style-type: none;
+    display: inline;
 }
 /* list item as block in a row */
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -165,25 +166,25 @@ p {
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*set to 200 px */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* set social media marketing image to 200px height */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* set the bottom marigin to 20 pcx */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*  set the font size to 36px */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* set font-size to 36px */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -195,7 +196,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* set h2 size */
+/* set h2 size to 20px */
 .footer h2 {
     font-size: 20px;
 }
