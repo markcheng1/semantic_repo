@@ -20,10 +20,11 @@ Executing the program:
       - Brand Awareness
       - Cost Management
 
-Screen Shot:
+Screen Shot for main menu:
 ![Alt text](image.png)
-![Alt text](image-1.png)
 
+Screen Shot for customer selection sub menu:
+![Alt text](image-1.png)
 
 Author:
      Marshall Yung  markchengk@gmail.com
