@@ -21,8 +21,8 @@ Executing the program:
       - Cost Management
 
 Screen Shot:
-![Alt text](image-6.png)
-![Alt text](image-4.png)
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 
 Author:
